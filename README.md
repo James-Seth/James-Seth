@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seth James</h1>
 <h3 align="center">A passionate Full Stack Developer from Vermont.</h3>
 
-- 🔭 I’m currently working on **Boring Weather API**
+- 🔭 I’m currently working on **Food Shelf website**
 
 - 🌱 I’m currently learning **React, ReactNative**
 
