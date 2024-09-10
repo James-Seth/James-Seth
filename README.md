@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seth James</h1>
 <h3 align="center">A passionate Full Stack Developer from Vermont.</h3>
 
-- 🔭 I’m currently working on **Food Shelf website**
-
-- 🌱 I’m currently learning **React, ReactNative**
-
-- 👯 I’m looking to collaborate on **anything really, studying code is a hobbie XD**
+- 🌱 I’m currently learning **Bootstrap, Node.js**
 
 - 👨‍💻 All of my projects are available at [sethjames.dev](sethjames.dev) or my github
 
