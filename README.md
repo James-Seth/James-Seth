@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **sethjames714@gmail.com**
 
-- ⚡ Fun fact **Love to climb rocks and dodge mosquitoes, unsuccessfully...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
