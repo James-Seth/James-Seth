@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seth James</h1>
 <h3 align="center">A Curious and Energetic Full Stack Developer from Vermont.</h3>
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 All of my projects are available at [sethjames.dev](sethjames.dev) or my github
 
